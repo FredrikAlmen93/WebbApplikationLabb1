@@ -1,11 +1,13 @@
 body {
   font-family: Arial, sans-serif;
   background-color: whitesmoke;
+  color: black;
   margin: 0px;
 }
 
 .header {
-  background-color: #22222222;
+  background-color: #222222;
+  color: white;
   padding: 20px;
   text-align: center;
 }
@@ -15,32 +17,34 @@ body {
 }
 
 .link {
+  color: white;
   margin: 10px;
   padding: 5px;
 }
 
 .link:hover {
-  color: blue;
+  color: yellow;
 }
 
 .button {
-  background-color: #4b35b5;
+  background-color: #222222;
   color: white;
   padding: 10px 20px;
-  border: 2px solid #4b35b5;
+  border: 2px solid #222222;
 }
 
 .button:hover {
-  background-color: #22222222;
+  background-color: #555555;
 }
 
 .button:focus {
-    outline: 3px solid #ff0000;
+  outline: 3px solid #ff0000;
 }
 
 .main {
-  width: 80%;
-  margin: 30px auto;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
 }
 
 .section {
@@ -50,7 +54,8 @@ body {
 }
 
 .footer {
-  background-color: #22222222;
+  background-color: #222222;
+  color: white;
   text-align: center;
   padding: 30px;
 }
@@ -61,8 +66,10 @@ body {
 }
 
 .product {
+  border: 1px solid #222222;
   padding: 20px;
-  margin-top: 20px;
+  margin: 20px 0;
+  max-width: 500px;
 }
 
 .product-image {
@@ -75,6 +82,8 @@ body {
 }
 
 .textarea {
-  width: 300px;
-  padding: 8px;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #222222;
+  box-sizing: border-box;
 }
