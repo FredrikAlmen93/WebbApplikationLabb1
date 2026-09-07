@@ -29,3 +29,8 @@ body {
     width: 80%;
     margin: 30px auto;
 }
+
+.section {
+    padding: 30px;
+    margin-bottom: 30px;
+}
