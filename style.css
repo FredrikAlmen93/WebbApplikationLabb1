@@ -14,3 +14,13 @@ body {
 .nav {
     margin-top: 15px;
 }
+
+.link {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.link:hover {
+    color: blue;
+}
