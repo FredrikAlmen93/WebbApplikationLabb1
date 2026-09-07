@@ -1,76 +1,80 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: whitesmoke;
-    margin: 0px;
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+  margin: 0px;
 }
 
 .header {
-    background-color: #22222222;
-    padding: 20px;
-    text-align: center;
+  background-color: #22222222;
+  padding: 20px;
+  text-align: center;
 }
 
 .nav {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 
 .link {
-    margin: 10px;
-    padding: 5px;
+  margin: 10px;
+  padding: 5px;
 }
 
 .link:hover {
-    color: blue;
+  color: blue;
 }
 
 .button {
-    background-color: #4b35b5;
-    color: white;
-    padding: 10px 20px;
-    border: 2px solid #4b35b5;
+  background-color: #4b35b5;
+  color: white;
+  padding: 10px 20px;
+  border: 2px solid #4b35b5;
 }
 
 .button:hover {
-    background-color: #22222222;
+  background-color: #22222222;
+}
+
+.button:focus {
+    outline: 3px solid #ff0000;
 }
 
 .main {
-    width: 80%;
-    margin: 30px auto;
+  width: 80%;
+  margin: 30px auto;
 }
 
 .section {
-    padding: 30px;
-    margin-bottom: 30px;
-    text-align: center;
+  padding: 30px;
+  margin-bottom: 30px;
+  text-align: center;
 }
 
 .footer {
-    background-color: #22222222;
-    text-align: center;
-    padding: 30px;
+  background-color: #22222222;
+  text-align: center;
+  padding: 30px;
 }
 
 .video {
-    width: 600px;
-    max-width: 100%;
+  width: 600px;
+  max-width: 100%;
 }
 
 .product {
-    padding: 20px;
-    margin-top: 20px;
+  padding: 20px;
+  margin-top: 20px;
 }
 
 .product-image {
-    width: 300px;
-    max-width: 100%;
+  width: 300px;
+  max-width: 100%;
 }
 
 .form {
-    padding: 20px;
+  padding: 20px;
 }
 
 .textarea {
-    width: 300px;
-    padding: 8px;
+  width: 300px;
+  padding: 8px;
 }
