@@ -24,3 +24,8 @@ body {
 .link:hover {
     color: blue;
 }
+
+.main {
+    width: 80%;
+    margin: 30px auto;
+}
