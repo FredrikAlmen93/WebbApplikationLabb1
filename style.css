@@ -42,3 +42,8 @@ body {
     text-align: center;
     padding: 30px;
 }
+
+.video {
+    width: 600px;
+    max-width: 100%;
+}
