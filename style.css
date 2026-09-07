@@ -6,7 +6,6 @@ body {
 
 .header {
     background-color: #22222222;
-    color: white;
     padding: 20px;
     text-align: center;
 }
@@ -16,7 +15,6 @@ body {
 }
 
 .link {
-    color: white;
     margin: 10px;
     padding: 5px;
 }
