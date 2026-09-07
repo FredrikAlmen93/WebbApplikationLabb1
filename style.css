@@ -31,6 +31,7 @@ body {
 }
 
 .section {
+    color: white;
     padding: 30px;
     margin-bottom: 30px;
     text-align: center;
