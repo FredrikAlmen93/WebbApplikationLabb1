@@ -47,3 +47,13 @@ body {
     width: 600px;
     max-width: 100%;
 }
+
+.product {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.product-image {
+    width: 300px;
+    max-width: 100%;
+}
