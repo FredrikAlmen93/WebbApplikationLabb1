@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Air Jordan Unisex",
+    "description": "A popular Air Jordan sneaker for everyday use.",
+    "price": 895,
+    "image": "https://img01.ztat.net/article/spp-media-p1/a16e2b95f5c44a7fb8e9a22a0e84bd34/0bcaa7bb03af437796a07f3fa7d9b2b1.jpg?imwidth=1800&filter=packshot",
+    "imageAlt": "Air Jordan Unisex sneakers",
+    "badge": "Sale"
+  },
+  {
+    "id": 2,
+    "name": "Jordan Spizike",
+    "description": "A stylish sneaker with a classic jordan design.",
+    "price": 999,
+    "image": "https://img01.ztat.net/article/spp-media-p1/437e5c2face94268afb4b4ccd29d3150/9009cb078bf74255aea6ca786c0e0c7c.jpg?imwidth=1800&filter=packshot",
+    "imageAlt": "Jordan Spizike sneakers",
+    "badge": "New"
+  },
+  {
+    "id": 3,
+    "name": "Jordan son of mars",
+    "description": "A unique Jordan sneaker with distinctive design",
+    "price": 1299,
+    "image": "https://img01.ztat.net/article/spp-media-p1/9428d84b41c74dbe903d9f8be7d27a25/d0f3cbbbcc1c4ff68eeb80325b6d141b.jpg?imwidth=1800&filter=packshot",
+    "imageAlt": "Jordan son of mars sneakers",
+    "badge": "Sale"
+  },
+  {
+    "id": 4,
+    "name": "Wmns Air Jordan",
+    "description": "A popular Air Jordan sneaker for everyday use for everyone.",
+    "price": 1895,
+    "image": "https://img01.ztat.net/article/spp-media-p1/6edcf9d5a52e4e20906c31bece662028/0c3e7dcf0417460496ad561f71b5aa82.jpg?imwidth=1800&filter=packshot",
+    "imageAlt": "Womens Air Jordan sneakers",
+    "badge": ""
+  },
+  {
+    "id": 5,
+    "name": "Sixty plus",
+    "description": "A classic sneaker at an affordable price",
+    "price": 595,
+    "image": "https://img01.ztat.net/article/spp-media-p1/4beb23c2aec44452ae294d05cff0a70d/b78370d350db4908bbb98ca9c6bbdec8.jpg?imwidth=1800&filter=packshot",
+    "imageAlt": "Sixty plus sneakers",
+    "badge": ""
+  }
+]
