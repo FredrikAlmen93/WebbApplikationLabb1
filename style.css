@@ -35,3 +35,10 @@ body {
     margin-bottom: 30px;
     text-align: center;
 }
+
+.footer {
+    background-color: #22222222;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
